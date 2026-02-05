@@ -20,7 +20,7 @@ Check it out live: [hc!TicTacToe Website](https://himc29.github.io/hcTicTacToe/)
 
 Visit the website:  
 
-[https://himc29.github.io/hcTicTacToe/](https://himc29.github.io/hcTicTacToe/)  
+[https://himc29.github.io/hcTicTacToe/](https://himc29.github.io/HcTicTacToe/)  
 
 - Select between the Pass and Play and Play with Robot options and click START GAME.  
 - Press on the cells to place your Xs or Os there.  
